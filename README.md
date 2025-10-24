@@ -56,3 +56,10 @@ steps to be followed
  --> You need to share:
  -->PR Link – from GitHub (e.g. https://github.com/<your-username>/git_collaboration_demo/pull/1)
  -->Output of git branch -a (copy-paste from your terminal).
+ --> output PR link - https://github.com/darninidhi-2122/git_collaboration_simulation/pull/1
+   feature/api
+  * main
+  remotes/origin/HEAD -> origin/main
+  remotes/origin/feature/api
+  remotes/origin/main
+
